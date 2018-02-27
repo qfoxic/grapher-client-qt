@@ -1,6 +1,15 @@
 # Prerequisites
 *.d
 
+build_*
+grapher_*
+.DS_Store
+js/.DS_Store
+src/.DS_Store
+src/*.user.*
+grapher.*
+
+
 # Compiled Object files
 *.slo
 *.lo
