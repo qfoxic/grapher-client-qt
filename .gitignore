@@ -6,7 +6,7 @@ grapher_*
 .DS_Store
 js/.DS_Store
 src/.DS_Store
-src/*.user.*
+src/grapher.pro.user
 grapher.*
 
 
